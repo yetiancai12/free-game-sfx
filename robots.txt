@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yetiancai12.github.io/free-game-sfx/sitemap.xml
